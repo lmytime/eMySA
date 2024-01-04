@@ -1,2 +1,2 @@
 # eMySA
-Exploring the JWST NIRSpec data
+Exploring the JWST NIRSpec MSA data
